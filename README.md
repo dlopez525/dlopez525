@@ -5,6 +5,8 @@
 ## Habilidades 🚀
 
 - Laravel 🌟
+- Vue.js 🌟
+- Nuxt.js
 - JS 🌟
 - HTML 🌟
 - CSS 🌟
@@ -23,11 +25,5 @@
 </a>
 </p>
 
-
-## Contacto 📬
-
-- Sitio web: [tu sitio web](enlace a tu sitio web) 🌐
-- LinkedIn: [tu perfil de LinkedIn](enlace a tu perfil de LinkedIn) 🔗
-- Correo electrónico: [tu dirección de correo electrónico](correo electrónico) 📧
 
 ¡Gracias por visitar mi perfil de GitHub! 😊
